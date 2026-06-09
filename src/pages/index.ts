@@ -1,0 +1,9 @@
+export { LoginPage } from './LoginPage';
+export { SignUpPage } from './SignUpPage';
+export { DashboardPage } from './DashboardPage';
+export { AgendaPage } from './AgendaPage';
+export { NewAppointmentModal } from './NewAppointmentModal';
+export { ClientsPage } from './ClientsPage';
+export { ClientDetailsPage } from './ClientDetailsPage';
+export { ReportsPage } from './ReportsPage';
+export { SettingsPage } from './SettingsPage';
